@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Elie Harfouche 👋</h1>
-<p align="center">A Full-Stack Software Engineer</p>
+<p align="center">A Full-Stack Developer</p>
 
 <br />
 
