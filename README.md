@@ -21,16 +21,26 @@
 
 
 
-![Hello, Promise](https://user-images.githubusercontent.com/79658534/165603232-c6ba5f1b-4dc0-48be-8eb5-e360a5855d55.png)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=promzzykoncepts&show_icons=true&title_color=ff1493&icon_color=9457eb&text_color=0CFFD2&bg_color=05061D&border_color=ff1493)](https://github.com/anuraghazra/github-readme-stats)        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=promzzykoncepts&ring=ff1493&sideNums=ff1493&stroke=0CFFD2&border=ff1493&background=05061d&sideLabels=0cffd2&dates=9457eb&fire=9457eb&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## My Github Badges
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<br>
-<br>
+## My Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=X-Elie-X)](https://github.com/ryo-ma/github-profile-trophy)
 
-| </a> | <a href="https://github.com/promzzykoncepts/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=promzzykoncepts&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+## My Top Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Elie-X)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
+## My Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Elie-X&show_icons=true)  
+
+## My Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=X-Elie-X)  
+
+## My Github Streak Stats
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=X-Elie-X)  
+
+## My Profile Views
+![Profile views](https://gpvc.arturio.dev/X-Elie-X) 
 
 <h2>Let's connect and work together...</h2>
 <ul>
